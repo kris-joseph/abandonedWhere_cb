@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: AbandonedWhere::Edmonton 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Abandoned clothing found outdoors in Edmonton, Alberta
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This collection is a test of the CollectionBuilder tool for geneerating online exhibits, using a small collection of photos. The pics are of abandoned clothing I have seen in Edmonton over the years. Some are indirect indicators of homelessness and marginalized people, and some are the result of a late night and a lot of drinking. Not much scholarly value here.... but an opportunity to develop a small collection with metadata and descriptions."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Kris Joseph
 
 ##########
 # COLLECTION SETTINGS
